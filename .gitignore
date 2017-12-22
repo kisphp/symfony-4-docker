@@ -1,0 +1,11 @@
+.idea/
+projects/
+logs/
+data/
+_server/
+shared/
+_db_setup/
+docker/nginx/config_old
+docker/php-fpm_old
+docker/es_old
+docker/elasticsearch_old
